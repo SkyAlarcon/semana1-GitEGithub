@@ -14,7 +14,7 @@
 
 ~~Eu juro que tentei fazer um resuminho, mas habilidades de leitura/escrita nao e comigo...~~
 
-~~Eu sou prof de matematica e nucna fui bem em portugues, pff me perdoa PepeSad~~
+~~Eu sou prof de matematica e nunca fui bem em portugues, pff me perdoa PepeSad~~
 ~~Mas quando chegar em codar eu sou melhorzinha o-o~~
 
 ## Sobre Markdown
