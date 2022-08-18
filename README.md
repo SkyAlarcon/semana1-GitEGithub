@@ -22,9 +22,9 @@
 Já usei markdown em alguns lugares (tive que aprender na raça).
 
 Usei na minha [Twitch](https://www.twitch.tv/totallybabywolf) na secao 'sobre' do canal. Criei listas com jogos como:
->Blasphemous
->Celeste
->Cuphead
->Etc..
+- Blasphemous
+- Celeste
+- Cuphead
+- Etc..
 
 Já também usei links (como usei ali em cima, ou então para o meu [Trello](https://trello.com/b/ZfOeZVIe/games) <sub> recomendo olhar se voce for gamer </sub>)
