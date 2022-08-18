@@ -12,8 +12,12 @@
      Esse algoritmo pode ser executado por um computador ou uma 
      pessoa (em forma de uma receita de comida, por exemplo)
 
-    Eu juro que tentei fazer um resuminho, mas habilidades de
-     leitura/escrita nao e comigo...~~
+~~Eu juro que tentei fazer um resuminho, mas habilidades de leitura/escrita nao e comigo...~~
 
 ~~Eu sou prof de matematica e nucna fui bem em portugues, pff me perdoa PepeSad~~
 ~~Mas quando chegar em codar eu sou melhorzinha o-o~~
+
+## Sobre Markdown
+
+Já usei markdown em alguns lugares (tive que aprender na raca)
+Usei na minha [Twitch](https://www.twitch.tv/totallybabywolf) na secao 'sobre' do canal.
