@@ -1,14 +1,14 @@
 # **O que e algoritmos**
 
-    O algoritmo e um conjunto de regras criado para executar 
-    funcoes especificas com objetivo de concluir as tarefas 
-    propostas. Ele e uma sequencia finita de comandos e passos 
+    O algoritmo é um conjunto de regras criado para executar 
+    funções específicas com objetivo de concluir as tarefas 
+    propostas. Ele é uma sequência finita de comandos e passos 
     que o computador executa de forma progressiva.
 
 
-    O algoritmo em si nao e o programa, mas sim o que o
-     programa executara. O codigo escrito tera condicoes e 
-    acoes predeterminadas para a realizacao da tarefa proposta.
+    O algoritmo em si não é o programa, mas sim o que o
+     programa executará. O código escrito terá condições e 
+    ações predeterminadas para a realizacção da tarefa proposta.
      Esse algoritmo pode ser executado por um computador ou uma 
      pessoa (em forma de uma receita de comida, por exemplo)
 
@@ -21,7 +21,7 @@
 
 Já usei markdown em alguns lugares (tive que aprender na raça).
 
-Usei na minha [Twitch](https://www.twitch.tv/totallybabywolf) na secao 'sobre' do canal. Criei listas com jogos como:
+Usei na minha [Twitch](https://www.twitch.tv/totallybabywolf) na seção 'sobre' do canal. Criei listas com jogos como:
 - Blasphemous
 - Celeste
 - Cuphead
