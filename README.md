@@ -28,3 +28,5 @@ Usei na minha [Twitch](https://www.twitch.tv/totallybabywolf) na seção 'sobre'
 - Etc..
 
 Já também usei links (como usei ali em cima, ou então para o meu [Trello](https://trello.com/b/ZfOeZVIe/games) <sub> recomendo olhar se voce for gamer </sub>)
+
+# :sparkles: Autora Sky :sparkles:
